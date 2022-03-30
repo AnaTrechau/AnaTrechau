@@ -1,0 +1,50 @@
+<img src="http://25.media.tumblr.com/tumblr_m5cyekI7BM1rwcc6bo1_400.gif" align="left" width="30%" />
+
+<h1 align="center">  Hey there, nice to meet you!</h1>
+<p align="center">I'm Ana, a beginner developer passionate about people, innovation and technology.</p>
+<p align="center">I'm currently 19 yo and I live in Rio de Janeiro, Brasil.🥥
+  <br>
+<img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="10%"/>
+<img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="10%"/>
+<img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="10%"/>
+<img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="10%"/>
+  </p>
+<br>
+<br>
+<br>
+
+
+## A versatile developer with a taste for experimenting.
+
+<img src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif" align="right" width="20%" />
+
+- 🎓 Studying Systems Analysis and Development at Faculdade Descomplica 
+- 🌱 I’m currently learning C, Python and JavaScript.
+- 👩‍💻 I’m looking to collaborate on opensource projects.
+- ✔️ 2022 Goals: Earn experience with web and mobile developing.🖥️📱
+- 🎮 Fun fact: I love beautiful animations and videogames.
+
+
+<h2  align="right"> Languages and tools: </h2>
+
+<img align="right" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="right" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="right" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="right" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="right" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="right" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="right" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="right" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding-right:10px;" />
+<img align="right" alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" style="padding-right:10px;" />
+
+<br />
+<br />
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaTrechau&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTrechau&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+### Conect with me:
+[<img width="20px" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">](https://linkedin.com/in/ana-trechau)
+[<img width="20px" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">](https://instagram.com/ana_trechau)
+[<img width="20px" alt="Spotify" src="https://cdn-icons-png.flaticon.com/512/174/174872.png">](https://open.spotify.com/user/ana_campbell23)
