@@ -1,6 +1,7 @@
 <img src="http://25.media.tumblr.com/tumblr_m5cyekI7BM1rwcc6bo1_400.gif" align="left" width="30%" />
 
-<h1 align="center">  Hey there, nice to meet you!</h1>
+
+<h1 align="center">  Hey there, nice to meet you! <img src="https://pokecrime.files.wordpress.com/2015/03/tumblr_static_tumblr_ljwvi13jf81qg0dcvo1_r1_500.gif" align="center" width="4%" /></h1>
 <p align="center">I'm Ana, a beginner developer passionate about people, innovation and technology.</p>
 <p align="center">I'm currently 19 yo and I live in Rio de Janeiro, Brasil.🥥
   <br>
@@ -26,6 +27,8 @@
 
 
 <h2  align="right"> Languages and tools: </h2>
+<img src="https://gente.globo.com/esports/images/campeonatos.gif" align="left" width="3%" />
+
 
 <img align="right" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="right" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
@@ -39,12 +42,21 @@
 
 <br />
 <br />
+<br />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaTrechau&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTrechau&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaTrechau&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTrechau&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
-### Conect with me:
-[<img width="20px" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">](https://linkedin.com/in/ana-trechau)
-[<img width="20px" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">](https://instagram.com/ana_trechau)
-[<img width="20px" alt="Spotify" src="https://cdn-icons-png.flaticon.com/512/174/174872.png">](https://open.spotify.com/user/ana_campbell23)
+<br />
+
+## What I'm listening:
+ <img src="http://pa1.narvii.com/6084/d50c59bed043045edb69febc26945574e37dc99b_00.gif" align="right" width="10%" />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ana_campbell23&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<h3  align="right"> Conect with me: </h3>
+
+[<img align="right" width="20px" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"><text>](https://linkedin.com/in/ana-trechau)
+[<img align="right" width="20px" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">](https://instagram.com/ana_trechau)
+[<img align="right" width="20px" alt="Spotify" src="https://cdn-icons-png.flaticon.com/512/174/174872.png">](https://open.spotify.com/user/ana_campbell23)
