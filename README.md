@@ -53,7 +53,7 @@
 ## What I'm listening:
  <img src="http://pa1.narvii.com/6084/d50c59bed043045edb69febc26945574e37dc99b_00.gif" align="right" width="10%" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ana_campbell23&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ana_campbell23&cover_image=true&theme=novatorem&bar_color=275bb0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <h3  align="right"> Conect with me: </h3>
 
