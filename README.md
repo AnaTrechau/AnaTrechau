@@ -3,7 +3,7 @@
 
 <h1 align="center">  Hey there, nice to meet you! <img src="https://pokecrime.files.wordpress.com/2015/03/tumblr_static_tumblr_ljwvi13jf81qg0dcvo1_r1_500.gif" align="center" width="4%" /></h1>
 <p align="center">I'm Ana, a beginner developer passionate about people, innovation and technology.</p>
-<p align="center">I'm currently 19 yo and I live in Rio de Janeiro, Brasil.🥥
+<p align="center">I'm currently 19 yo and I live in Rio de Janeiro, Brazil.🥥
   <br>
 <img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="10%"/>
 <img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="10%"/>
@@ -45,12 +45,8 @@
 <br />
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaTrechau&show_icons=true&theme=yeblu" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTrechau&layout=compact&theme=yeblu" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaTrechau&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTrechau&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br />
