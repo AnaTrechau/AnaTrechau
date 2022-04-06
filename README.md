@@ -58,6 +58,6 @@
 
 <h3  align="right"> Conect with me: </h3>
 
-[<img align="right" width="20px" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"><text>](https://linkedin.com/in/ana-trechau)
-[<img align="right" width="20px" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">](https://instagram.com/ana_trechau)
 [<img align="right" width="20px" alt="Spotify" src="https://cdn-icons-png.flaticon.com/512/174/174872.png">](https://open.spotify.com/user/ana_campbell23)
+[<img align="right" width="20px" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">](https://instagram.com/ana_trechau)
+[<img align="right" width="20px" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">](https://linkedin.com/in/ana-trechau)
