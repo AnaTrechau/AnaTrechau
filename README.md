@@ -47,6 +47,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaTrechau&show_icons=true&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTrechau&layout=compact&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnaTrechau&title=Joined2020,Commit,Repositories,PullRequest&theme=algolia&no-bg=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <br />
