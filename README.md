@@ -49,6 +49,8 @@
 <img height= "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTrechau&layout=compact&theme=yeblu">
 </div>
 
+<br />
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnaTrechau&title=Joined2020,Commit,Repositories,PullRequest&theme=algolia&no-bg=true&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
