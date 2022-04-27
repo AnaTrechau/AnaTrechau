@@ -1,7 +1,8 @@
 <img src="http://25.media.tumblr.com/tumblr_m5cyekI7BM1rwcc6bo1_400.gif" align="left" width="30%" />
 
 
-<h1 align="center">  Hey there, nice to meet you! <img src="https://pokecrime.files.wordpress.com/2015/03/tumblr_static_tumblr_ljwvi13jf81qg0dcvo1_r1_500.gif" align="center" width="4%" /></h1>
+
+<h1 align="center"> <a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/220427/ef995397aff79981b53a4b8c77608d20.png" alt="Hey there, nice to meet you!" border="0"></a> <img src="https://pokecrime.files.wordpress.com/2015/03/tumblr_static_tumblr_ljwvi13jf81qg0dcvo1_r1_500.gif" align="center" width="4%" /></h1>
 <p align="center">I'm Ana, a beginner developer passionate about people, innovation and technology.</p>
 <p align="center">I'm currently 19 yo and I live in Rio de Janeiro, Brazil.🥥
   <br>
@@ -15,7 +16,7 @@
 <br>
 
 
-## A versatile developer with a taste for experimenting.
+<h2><a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/220427/547bb2a3ece8f47409e8f65d5d97e2a2.png" alt="A versatile developer with a taste for experimenting." border="0"></a></h2>
 
 <img src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif" align="right" width="20%" />
 
@@ -26,14 +27,13 @@
 - 🎮 Fun fact: I love beautiful animations and videogames.
 
 
-<h2  align="right"> Languages and tools: </h2>
+<h2  align="right"> <a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/220427/a12747ccdd7843192db86ff749ce5449.png" alt="Languages and tools:" border="0"></a> </h2>
 <img src="https://gente.globo.com/esports/images/campeonatos.gif" align="left" width="3%" />
 
 
 <img align="right" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="right" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="right" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="right" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="right" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" style="padding-right:10px;" />
 <img align="right" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="right" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="right" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
@@ -56,13 +56,13 @@
 
 <br />
 
-## What I'm listening:
+<h2> <a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/220427/8c08d5ad41998c09439039ea314a888f.png" alt="what I'm listening" border="0"></a> </h2>
  <img src="http://pa1.narvii.com/6084/d50c59bed043045edb69febc26945574e37dc99b_00.gif" align="right" width="10%" />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ana_campbell23&cover_image=true&theme=novatorem&bar_color=275bb0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<h3  align="right"> Conect with me: </h3>
+<h3  align="right"> <a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/220427/68e262e41b89f12d6dc42f83f97c2585.png" alt="Conect with me" border="0"></a> </h3>
 
-[<img align="right" width="20px" alt="Spotify" src="https://cdn-icons-png.flaticon.com/512/174/174872.png">](https://open.spotify.com/user/ana_campbell23)
-[<img align="right" width="20px" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">](https://instagram.com/ana_trechau)
-[<img align="right" width="20px" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">](https://linkedin.com/in/ana-trechau)
+[<img align="right" width="23px" alt="Spotify" src="https://cdn-icons.flaticon.com/png/512/2585/premium/2585161.png?token=exp=1651019304~hmac=2b22668f6aa9ba6430f584ff2e98ce90">](https://open.spotify.com/user/ana_campbell23)
+[<img align="right" width="23px" alt="Instagram" src="https://cdn-icons.flaticon.com/png/512/2585/premium/2585153.png?token=exp=1651019304~hmac=b78e67f8dd9f6f8a3a4dad4987962720">](https://instagram.com/ana_trechau)
+[<img align="right" width="23px" alt="Linkedin" src="https://cdn-icons.flaticon.com/png/512/2585/premium/2585158.png?token=exp=1651019304~hmac=a82c936bd9a36c3d1165b2122f81c179">](https://linkedin.com/in/ana-trechau)
