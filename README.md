@@ -63,6 +63,6 @@
 
 <h3  align="right"> <a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/220427/68e262e41b89f12d6dc42f83f97c2585.png" alt="Conect with me" border="0"></a> </h3>
 
-[<img align="right" width="23px" alt="Spotify" src="https://cdn-icons.flaticon.com/png/512/2585/premium/2585161.png?token=exp=1651019304~hmac=2b22668f6aa9ba6430f584ff2e98ce90">](https://open.spotify.com/user/ana_campbell23)
-[<img align="right" width="23px" alt="Instagram" src="https://cdn-icons.flaticon.com/png/512/2585/premium/2585153.png?token=exp=1651019304~hmac=b78e67f8dd9f6f8a3a4dad4987962720">](https://instagram.com/ana_trechau)
-[<img align="right" width="23px" alt="Linkedin" src="https://cdn-icons.flaticon.com/png/512/2585/premium/2585158.png?token=exp=1651019304~hmac=a82c936bd9a36c3d1165b2122f81c179">](https://linkedin.com/in/ana-trechau)
+[<img align="right" width="23px" alt="Spotify" src="https://cdn-icons-png.flaticon.com/512/174/174872.png">](https://open.spotify.com/user/ana_campbell23)
+[<img align="right" width="23px" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">](https://instagram.com/ana_trechau)
+[<img align="right" width="23px" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">](https://linkedin.com/in/ana-trechau)
