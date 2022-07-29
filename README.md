@@ -6,10 +6,12 @@
 <p align="center">I'm Ana, a beginner developer passionate about people, innovation and technology.</p>
 <p align="center">I'm currently 19 yo and I live in Rio de Janeiro, Brazil.🥥
   <br>
-<img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="100px"/>
-<img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="100px"/>
-<img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="100px"/>
-<img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="100px"/>
+<div align="center">
+  <img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="100px"/>
+  <img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="100px"/>
+  <img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="100px"/>
+  <img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="100px"/>
+</div>
   </p>
 <br>
 <br>
@@ -30,18 +32,16 @@
 <h2  align="right"> <a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/220427/a12747ccdd7843192db86ff749ce5449.png" alt="Languages and tools:" border="0"></a> </h2>
 <img src="https://gente.globo.com/esports/images/campeonatos.gif" align="left" width="25px" />
 
-
-<img align="right" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="right" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="right" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" style="padding-right:10px;" />
-<img align="right" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="right" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="right" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="right" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding-right:10px;" />
-<img align="right" alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" style="padding-right:10px;" />
-
-<br />
-<br />
+<div align="right" style="display: inline_block">
+  <img alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding-right:10px;" /> &nbsp;
+  <img alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" style="padding-right:10px;" /> &nbsp;
+  <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> &nbsp;
+  <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> &nbsp;
+  <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> &nbsp;
+  <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> &nbsp;
+  <img alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" style="padding-right:10px;" /> &nbsp;
+<img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> &nbsp;
+</div>
 <br />
 
 <div>
@@ -60,7 +60,7 @@
 <h2> <a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/220427/8c08d5ad41998c09439039ea314a888f.png" alt="what I'm listening" border="0"></a> </h2>
  <img src="http://pa1.narvii.com/6084/d50c59bed043045edb69febc26945574e37dc99b_00.gif" align="right" width="85px" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ana_campbell23&cover_image=true&theme=novatorem&bar_color=275bb0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ana_campbell23&cover_image=true&theme=novatorem&bar_color=275bb0&bar_color_cover=false)](https://open.spotify.com/user/ana_campbell23)
 
 <h3  align="right"> <a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/220427/68e262e41b89f12d6dc42f83f97c2585.png" alt="Conect with me" border="0"></a> </h3>
 
