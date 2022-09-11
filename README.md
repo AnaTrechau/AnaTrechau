@@ -25,7 +25,7 @@
 - 🎓 Studying Systems Analysis and Development at Faculdade Descomplica 
 - 🌱 I’m currently learning C, Python and JavaScript.
 - 👩‍💻 I’m looking to collaborate on opensource projects.
-- ✔️ 2022 Goals: Earn experience with backend and web development.🖥️📱
+- ✔️ 2022 Goals: Earn experience with backend and web development.🖥️
 - 🎮 Fun fact: I love beautiful animations and videogames.
 
 
