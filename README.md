@@ -4,7 +4,7 @@
 
 <h1 align="center"> <a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/220427/ef995397aff79981b53a4b8c77608d20.png" alt="Hey there, nice to meet you!" border="0"></a> <img src="https://pokecrime.files.wordpress.com/2015/03/tumblr_static_tumblr_ljwvi13jf81qg0dcvo1_r1_500.gif" align="center" width="50px" /></h1>
 <p align="center">I'm Ana, a beginner developer passionate about people, innovation and technology.</p>
-<p align="center">I'm currently 19 yo and I live in Rio de Janeiro, Brazil.🥥
+<p align="center">I'm currently 20 yo and I live in Rio de Janeiro, Brazil.🥥
   <br>
 <div align="center">
   <img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="100px"/>
@@ -60,7 +60,7 @@
 <h2> <a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/220427/8c08d5ad41998c09439039ea314a888f.png" alt="what I'm listening" border="0"></a> </h2>
  <img src="http://pa1.narvii.com/6084/d50c59bed043045edb69febc26945574e37dc99b_00.gif" align="right" width="85px" />
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ana_campbell23&cover_image=true&theme=novatorem&bar_color=275bb0&bar_color_cover=false)](https://open.spotify.com/user/ana_campbell23)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ana_campbell23&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=203ba7&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=ana_campbell23&redirect=true)
 
 <h3  align="right"> <a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/220427/68e262e41b89f12d6dc42f83f97c2585.png" alt="Conect with me" border="0"></a> </h3>
 
