@@ -22,10 +22,8 @@
 
 <img src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif" align="right" width="160px" />
 
-- 🎓 Studying Systems Analysis and Development at Faculdade Descomplica 
-- 🌱 I’m currently learning C, Python and JavaScript.
-- 👩‍💻 I’m looking to collaborate on opensource projects.
-- ✔️ 2022 Goals: Earn experience with backend and web development.🖥️
+- 👩‍💻 Working as a Fullstack Engineer at Descomplica.
+- 🎓 Studying Systems Analysis and Development at Faculdade Descomplica
 - 🎮 Fun fact: I love beautiful animations and videogames.
 
 
@@ -33,14 +31,14 @@
 <img src="https://gente.globo.com/esports/images/campeonatos.gif" align="left" width="25px" />
 
 <div align="right" style="display: inline_block">
-  <img alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" style="padding-right:10px;" /> &nbsp;
-  <img alt="C" width="26px" src="https://img.icons8.com/color/452/c-programming.png" style="padding-right:10px;" /> &nbsp;
   <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> &nbsp;
-  <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> &nbsp;
-  <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> &nbsp;
-  <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> &nbsp;
-  <img alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" style="padding-right:10px;" /> &nbsp;
-<img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> &nbsp;
+  <img alt="TypeScript" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" style="padding-right:10px;" /> &nbsp;
+  <img alt="Node" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" style="padding-right:10px;" /> &nbsp;
+  <img alt="NestJs" width="26px" src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" style="padding-right:10px;" /> &nbsp;
+  <img alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" style="padding-right:10px;" /> &nbsp;
+  <img alt="NextJs" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--RpUfSAFP--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8otweo5ef6kwc26rmxe5.png" style="padding-right:10px;" /> &nbsp;
+  <img alt="C#" width="26px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" style="padding-right:10px;" /> &nbsp;
+  <img alt="AWS" width="26px" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png" style="padding-right:10px;" /> &nbsp;
 </div>
 <br />
 
