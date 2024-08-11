@@ -44,7 +44,7 @@
 
 <div>
 <img height= "160em" src= "https://github-readme-stats.vercel.app/api?username=AnaTrechau&show_icons=true&count_private=true&theme=yeblu">
-<img height= "160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTrechau&count_private=true&exclude_repo=harvard-CS50x-practices,CalculadoraPython&layout=compact&theme=yeblu">
+<img height= "160em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AnaTrechau&count_private=true&exclude_repo=harvard-CS50x-practices,CalculadoraPython,tic-tac-toe&layout=compact&theme=yeblu">
 </div>
 
 <br />
