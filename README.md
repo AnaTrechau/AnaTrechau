@@ -4,7 +4,7 @@
 
 <h1 align="center"> <a href="https://fontmeme.com/pt/fontes-pixeladas/"><img src="https://fontmeme.com/permalink/220427/ef995397aff79981b53a4b8c77608d20.png" alt="Hey there, nice to meet you!" border="0"></a> <img src="https://pokecrime.files.wordpress.com/2015/03/tumblr_static_tumblr_ljwvi13jf81qg0dcvo1_r1_500.gif" align="center" width="50px" /></h1>
 <p align="center">I'm Ana, a beginner developer passionate about people, innovation and technology.</p>
-<p align="center">I'm currently 20 yo and I live in Rio de Janeiro, Brazil.🥥
+<p align="center">I'm currently 21 yo and I live in Rio de Janeiro, Brazil.🥥
   <br>
 <div align="center">
   <img src="https://media0.giphy.com/media/yGhIqFuOx84KY/giphy.gif" width="100px"/>
