@@ -1,12 +1,12 @@
 # Hey there, nice to meet you! <img src="https://pokecrime.files.wordpress.com/2015/03/tumblr_static_tumblr_ljwvi13jf81qg0dcvo1_r1_500.gif" align="center" width="50px" />
 
-I'm Ana, a developer passionate about people, innovation and technology. I'm currently 24 yo and live in Rio de Janeiro, Brazil.🥥🌊
+I'm Ana, a developer passionate about people, innovation and technology. I'm currently 24 yo and live in Rio de Janeiro, Brazil.🌊🥥
 
 <img src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif" align="right" width="160px" />
 
 - 👩‍💻 Working as a Software Engineer at Loft.
 - 🎓 Graduated in Systems Analysis and Development at Faculdade Descomplica
-- 🎮 Fun fact: I love videogames, cats and mate leão.
+- 🎮 I love videogames, cats and mate leão.
 
 <div align="left" style="display: inline_block">
   <div align="left" style="display: inline_block">
@@ -26,6 +26,6 @@ I'm Ana, a developer passionate about people, innovation and technology. I'm cur
 
 <h3  align="right"><img src="https://fontmeme.com/permalink/251213/98003e7a730636cc77833e79288e2b52.png" alt="Connect with me" border="0"></a> </h3>
 
-[<img align="right" width="30px" alt="Spotify" src="https://cdn-icons-png.flaticon.com/512/174/174872.png">](https://open.spotify.com/user/ana_campbell23)
-[<img align="right" width="30px" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">](https://instagram.com/ana_trechau)
-[<img align="right" width="30px" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">](https://linkedin.com/in/ana-trechau)
+[<img align="right" width="25px" alt="Spotify" src="https://cdn-icons-png.flaticon.com/512/174/174872.png">](https://open.spotify.com/user/ana_campbell23)
+[<img align="right" width="25px" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">](https://instagram.com/ana_trechau)
+[<img align="right" width="25px" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">](https://linkedin.com/in/ana-trechau)
