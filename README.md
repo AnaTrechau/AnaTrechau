@@ -26,6 +26,8 @@ I'm Ana, a developer passionate about people, innovation and technology. I'm cur
 
 <h3  align="right"><img src="https://fontmeme.com/permalink/251213/98003e7a730636cc77833e79288e2b52.png" alt="Connect with me" border="0"></a> </h3>
 
-[<img align="right" width="25px" alt="Spotify" src="https://cdn-icons-png.flaticon.com/512/174/174872.png">](https://open.spotify.com/user/ana_campbell23)
-[<img align="right" width="25px" alt="Instagram" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">](https://instagram.com/ana_trechau)
-[<img align="right" width="25px" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">](https://linkedin.com/in/ana-trechau)
+<p align="right">
+  <a href="https://linkedin.com/in/ana-trechau"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/ana_trechau"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="25" alt="Instagram" /></a>
+  <a href="https://open.spotify.com/user/ana_campbell23"><img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="25" alt="Spotify" /></a>
+</p>
