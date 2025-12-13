@@ -1,6 +1,6 @@
 # Hey there, nice to meet you! <img src="https://pokecrime.files.wordpress.com/2015/03/tumblr_static_tumblr_ljwvi13jf81qg0dcvo1_r1_500.gif" align="center" width="50px" />
 
-I'm Ana, a developer passionate about people, innovation and technology. I'm currently 24 yo and live in Rio de Janeiro, Brazil.🌊🥥
+I'm Ana, a developer passionate about people, innovation and technology. I'm currently 23 yo and live in Rio de Janeiro, Brazil.🌊🥥
 
 <img src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif" align="right" width="160px" />
 
